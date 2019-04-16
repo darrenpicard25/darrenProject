@@ -1,0 +1,16 @@
+{
+  "name": "neo_project",
+  "version": "1.0.0",
+  "description": "App that uses all important stacks i need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "mongo",
+    "apollo"
+  ],
+  "author": "Darren P",
+  "license": "MIT"
+}
